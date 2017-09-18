@@ -1,1 +1,1 @@
-# mnistdigitClassifierSVMFlask
+# mnistdigitClassifierRFFlask
